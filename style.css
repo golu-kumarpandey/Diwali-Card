@@ -1,0 +1,50 @@
+.section{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    text-align: center;
+    
+}
+.mainheading{
+    
+    color: aliceblue;
+    font-size: 70px;
+    padding-top: 37px;
+    font-style: italic;
+  
+    
+}
+.buttonsection{
+    background-color: skyblue;
+   text-align: center;
+   padding: 10px;
+    
+   
+
+}
+.cardcontainer{
+    text-align: center;
+    width:50vw;
+    padding: 12px;
+    border-radius: 9px;
+    margin: 48px;
+    background-color: aliceblue;
+
+}
+.imagecontainer{
+    height: 140px;
+    
+}
+
+.headingcontainer{
+    font-size: 30px;
+    font-style: italic;
+}
+.paracontainer{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+.btn{
+    font-weight: 500;
+}
