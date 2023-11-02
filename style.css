@@ -1,15 +1,23 @@
 .section{
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
-    height: 30vh;
-    text-align: center;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Roboto";
+    
+    
     
 }
+
 .mainheading{
     
     color: aliceblue;
-    font-size: 70px;
-    padding-top: 37px;
-    font-style: italic;
+   
+   font-style: italic;
+    text-align: center;
+    font-weight: bold;
+
   
     
 }
@@ -17,34 +25,29 @@
     background-color: skyblue;
    text-align: center;
    padding: 10px;
+ 
     
    
 
 }
 .cardcontainer{
     text-align: center;
-    width:50vw;
-    padding: 12px;
+    width: 100vw;
+    margin: 10px;
+    padding:10px;
+    
     border-radius: 9px;
-    margin: 48px;
+    
     background-color: aliceblue;
 
 }
-.imagecontainer{
-    height: 140px;
-    
+.btn{
+    font-weight: 500;
 }
 
-.headingcontainer{
-    font-size: 30px;
-    font-style: italic;
-}
 .paracontainer{
     font-size: 20px;
     font-weight: bold;
     text-decoration: underline;
     font-style: italic;
-}
-.btn{
-    font-weight: 500;
 }
